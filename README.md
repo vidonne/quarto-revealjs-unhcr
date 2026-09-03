@@ -9,7 +9,7 @@ A [Quarto](https://quarto.org/) extension to create [UNHCR branded](https://www.
 To start a new presentation:
 
 ```bash
-quarto use template unhcr-dataviz/quarto-revealjs-unhcr
+quarto use template vidonne/quarto-revealjs-unhcr
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place for your presentation.
@@ -20,4 +20,4 @@ Read the [Quarto documentation on reveal.js format](https://quarto.org/docs/pres
 
 ## Example
 
-Here is the [source code](template.qmd) and the [live example](https://unhcr-dataviz.github.io/quarto-revealjs-unhcr/#/title-slide) of the [template.qmd](template.qmd) file.
+Here is the [source code](template.qmd) and the [live example](https://vidonnes.github.io/quarto-revealjs-unhcr/#/title-slide) of the [template.qmd](template.qmd) file.
