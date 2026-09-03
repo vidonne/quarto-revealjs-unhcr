@@ -20,4 +20,4 @@ Read the [Quarto documentation on reveal.js format](https://quarto.org/docs/pres
 
 ## Example
 
-Here is the [source code](template.qmd) and the [live example](https://vidonnes.github.io/quarto-revealjs-unhcr/#/title-slide) of the [template.qmd](template.qmd) file.
+Here is the [source code](template.qmd) and the [live example](https://vidonne.github.io/quarto-revealjs-unhcr/#/title-slide) of the [template.qmd](template.qmd) file.
